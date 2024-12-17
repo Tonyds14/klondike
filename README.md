@@ -2,6 +2,7 @@
 Klondike Solitaire
 
 Java based program (batch application) that simulates klondike solitaire.
+- arraylist, collections, lists, stringtokenizer, linkedhashset, linkedlist, queue, filereader
 
 User Input (via console)
 1. User option to shuffle cards (Y/N)
